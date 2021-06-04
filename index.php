@@ -26,8 +26,8 @@ session_start();
                <div class="container">
                    <center>
                    <div id="bannerContent">
-                       <h1>We sell .</h1>
-                       <p>Flat 40% OFF on all premium brands.</p>
+                       <h1>We sell </h1>
+                       <p>Most exclusive camera, watches and shirts.</p>
                        <a href="products.php" class="btn btn-danger">Shop Now</a>
                    </div>
                    </center>
